@@ -1,0 +1,64 @@
+[
+  {
+    "word": "responsible",
+    "meaning": "책임이 있는",
+    "example": "The student is responsible for the class materials.",
+    "synonyms": [
+      "accountable",
+      "reliable"
+    ],
+    "antonyms": [
+      "irresponsible"
+    ],
+    "level": "중학생"
+  },
+  {
+    "word": "glamorous",
+    "meaning": "화려하고 매력적인",
+    "example": "The advertisement showed a glamorous lifestyle.",
+    "synonyms": [
+      "attractive"
+    ],
+    "antonyms": [
+      "ordinary"
+    ],
+    "level": "중학생"
+  },
+  {
+    "word": "gourmet",
+    "meaning": "고급 음식의",
+    "example": "The restaurant serves gourmet dishes.",
+    "synonyms": [
+      "fine"
+    ],
+    "antonyms": [
+      "plain"
+    ],
+    "level": "중학생"
+  },
+  {
+    "word": "pursue",
+    "meaning": "추구하다",
+    "example": "She decided to pursue her dream.",
+    "synonyms": [
+      "seek",
+      "follow"
+    ],
+    "antonyms": [
+      "abandon"
+    ],
+    "level": "중학생"
+  },
+  {
+    "word": "consider",
+    "meaning": "고려하다",
+    "example": "Consider all the choices first.",
+    "synonyms": [
+      "regard"
+    ],
+    "antonyms": [
+      "ignore"
+    ],
+    "level": "초등 고학년"
+  }
+]
